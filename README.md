@@ -1,19 +1,7 @@
-
-| CS-665       | Software Design & Patterns |
-|--------------|----------------------------|
-| Name         | AMAN JAIN                  |
-| Date         | 03/23/2000                 |
-| Course       | Fall 2024                  |
-| Assignment # | 2                          |
-
-# Assignment Overview
 Please add a paragraph or two overviewing the objectives of the assignment.
 Ans : This assignment involves developing a notification system for coordinating product deliveries between retailers and freelance drivers. The system generates delivery requests from stores and notifies all available drivers about them. The focus is on implementing the core functionality using object-oriented principles, without the need for a user interface, and verifying it with unit tests.
 
 The implementation leverages the Observer design pattern to ensure flexibility and scalability, allowing for easy additions of new driver types and vehicles. The project follows best practices, adhering to the SOLID principles and the Google Java Style Guide, ensuring maintainability and clean code.
-
-# GitHub Repository Link:
-https://github.com/Aman23000/SDP_Assignment_2.git
 
 # Implementation Description 
 
